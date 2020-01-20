@@ -90,6 +90,7 @@ Submit a pull request with a link to your solution in this [file](https://github
   <summary> Show Student Solutions </summary>
 
 * Add your solution below this list
+* [Brian's Solution (Easy)](https://github.com/Reminiscing/google-homepage) - [View in Browser](https://reminiscing.github.io/google-homepage/)
 * [Vlad's Solution (Easy)](https://github.com/vladmyshchuk/google-homepage) - [View in Browser](https://vladmyshchuk.github.io/google-homepage/)
 * [Mvk Solution (Easy)](https://github.com/mvkxo/google-homepage) - [View in Browser](https://mvkxo.github.io/google-homepage/)
 * [CJ's Solution (Easy)](https://github.com/constantjoannes/google-homepage) - [View in Browser](https://constantjoannes.github.io/google-homepage/)
